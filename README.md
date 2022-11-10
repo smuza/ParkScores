@@ -16,4 +16,6 @@ The next method was to download a list of addresses from the sf edu website of d
 
 
 Graphs:
+
+
 <img width="434" alt="Screen Shot 2022-11-10 at 2 13 35 PM" src="https://user-images.githubusercontent.com/90660851/201217102-6c0cd224-de1d-4bc2-bd86-d24d6a606940.png">
