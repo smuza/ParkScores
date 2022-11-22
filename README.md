@@ -12,6 +12,20 @@ Also I wanted to find a correlation between park scores and the reputation/rank 
 
 The first website that I tried to scrape was the Nook website (which gives a list of San Francisco school and their ratings) using selenium. However, the Cloudfare element detected the robot accessing the website and prevented me from downloading the data. So, the next method was to download a list of addresses from the sf edu website of different elementary, middle, and high school in the area. After collecting the addresses, I wanted to see the neighborhood each school was located in. To do this, I used open-source maps to find the coordinates of the address and compared it with the different neighborhoods to see which one contained that coorrdinate using geopandas.
 
+Specific information about data:
+- Park ID is another way to find the park
+- PSA stands for Park Service Area
+- Name of Park
+- FQ - FY: Fiscal Year, Q: Quarter; 
+- Q1: July-Sept, Q2: Oct-Dec, Q3: Jan-March, Q4: April-June
+- park scores are recorded from FY05 (fiscal year 2005) Q3 (third quarter of the year) 
+- until FY14 (fiscal year 2014) Q4 (fourth/last quarter of the year)
+- Scores: 0-1 (0% to 100%); higher number [closer to 1] means the park has a better score
+- https://sfcontroller.org/sites/default/files/FileCenter/Documents/4857-Parks%20Report_10%2023%2013_FINAL.pdf 
+- https://sfcontroller.org/park-scores
+- https://data.sfgov.org/Culture-and-Recreation/Annual-Park-Evaluation-Scores-2015-2019/r33y-seqv
+
+
 ## Libraries used:
 - Pandas
 - Geopandas
@@ -23,21 +37,8 @@ The first website that I tried to scrape was the Nook website (which gives a lis
 
 ## A few Interesting Observations:
 
-As we can see the graph below, most parks have a score between 60 and 90. Interestingly, Seward and Crocker Amazon Playground seems outliers with scores of ... and ... respectively.
+As we can see the graph below, most parks have a score between 80 and 100. Interestingly, Seward and Crocker Amazon Playground seems outliers with scores of 70 and 75 respectively.
 
-
-Specific information about data:
-#Park ID is another way to find the park
-#PSA stands for Park Service Area
-#Name of Park
-#FQ - FY: Fiscal Year, Q: Quarter; 
-#Q1: July-Sept, Q2: Oct-Dec, Q3: Jan-March, Q4: April-June
-#park scores are recorded from FY05 (fiscal year 2005) Q3 (third quarter of the year) 
-#until FY14 (fiscal year 2014) Q4 (fourth/last quarter of the year)
-#Scores: 0-1 (0% to 100%); higher number [closer to 1] means the park has a better score
-#https://sfcontroller.org/sites/default/files/FileCenter/Documents/4857-Parks%20Report_10%2023%2013_FINAL.pdf 
-#https://sfcontroller.org/park-scores
-#https://data.sfgov.org/Culture-and-Recreation/Annual-Park-Evaluation-Scores-2015-2019/r33y-seqv
 
 Graphs:
 
@@ -46,12 +47,13 @@ Graphs:
 <img width="434" alt="Screen Shot 2022-11-10 at 2 13 35 PM" src="https://user-images.githubusercontent.com/90660851/201217102-6c0cd224-de1d-4bc2-bd86-d24d6a606940.png">
 
 
+From the graph we can see that the highest park scores include: 
+Francisco Park, Corona Heights, Turk-Hyde Mini Park, Washington-Hyde Mini Park, 24th Street York-Mini Park, Garfield Square, Lake Merced Park
 
-Interestingly, the parks located in ... neighborhood seem to fare a lot better.
+Interestingly, the parks located in the following neighborhoods seem to fare a lot better: Russian hill, Corona Heights, Hyde St., Washignton St, Mission, Mission, Lakeshore.
+
+These are also the neighborhoods with the best schools.
 
 
-It's also the neighborhoods with the best ...
-
-
-Which leads me to believe that the score of a park/neighborhood ...
+Which leads me to believe that the score of a park/neighborhood correlates with the quality of other infrastructures in that same neighborhood.
 
