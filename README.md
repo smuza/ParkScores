@@ -42,7 +42,7 @@ As we can see the graph below, most parks have a score between 80 and 100. Inter
 
 Graphs:
 
-***Graph 1: Park and their respective Park Scores from data.sf ***
+**Graph 1: Park and their respective Park Scores from data.sf**
 
 <img width="434" alt="Screen Shot 2022-11-10 at 2 13 35 PM" src="https://user-images.githubusercontent.com/90660851/201217102-6c0cd224-de1d-4bc2-bd86-d24d6a606940.png">
 
