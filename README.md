@@ -50,6 +50,15 @@ Graphs:
 From the graph we can see that the highest park scores include: 
 Francisco Park, Corona Heights, Turk-Hyde Mini Park, Washington-Hyde Mini Park, 24th Street York-Mini Park, Garfield Square, Lake Merced Park
 
+
+**Graph 2: Park and school comparison**
+![image](https://user-images.githubusercontent.com/90660851/204657514-2103dbf2-0358-4ef3-966e-03f824d6f07d.png)
+
+
+
+
+
+
 Interestingly, the parks located in the following neighborhoods seem to fare a lot better: Russian hill, Corona Heights, Hyde St., Washignton St, Mission, Mission, Lakeshore.
 
 These are also the neighborhoods with the best schools.
