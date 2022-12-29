@@ -65,3 +65,10 @@ These are also the neighborhoods with the best schools.
 
 Which leads me to believe that the score of a park/neighborhood correlates with the quality of other infrastructures in that same neighborhood.
 
+We can also look at the socioeconimic factors within the neighborhood to further demonstrate this relation. For instance, the amount of evictions in neighborhoods reflects the rating of the school within that same neighborhood. From the above graphs and the graph below, we can see how more evicitions in a neighborhood correlate to a lower school rating. 
+
+**Graph 3: Eviction distribution in neighborhoods**
+
+![image](https://user-images.githubusercontent.com/90660851/210008943-bc9811f4-dc8c-484b-842a-bb9e6747e10f.png)
+
+
