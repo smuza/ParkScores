@@ -71,4 +71,7 @@ We can also look at the socioeconimic factors within the neighborhood to further
 
 ![image](https://user-images.githubusercontent.com/90660851/210008943-bc9811f4-dc8c-484b-842a-bb9e6747e10f.png)
 
+![image](https://user-images.githubusercontent.com/90660851/210446064-a3989745-9244-4d39-aaba-8806f4d024a1.png)
+
+
 
