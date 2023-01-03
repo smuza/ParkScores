@@ -53,7 +53,7 @@ Francisco Park, Corona Heights, Turk-Hyde Mini Park, Washington-Hyde Mini Park, 
 
 **Graph 2: Park and school comparison**
 
-![image](https://user-images.githubusercontent.com/90660851/204657514-2103dbf2-0358-4ef3-966e-03f824d6f07d.png)
+![image](https://user-images.githubusercontent.com/90660851/210447509-f0b43c1a-7be1-4961-86c8-31a945124d22.png)
 
 
 
