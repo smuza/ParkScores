@@ -51,10 +51,11 @@ From the graph we can see that the highest park scores include:
 Francisco Park, Corona Heights, Turk-Hyde Mini Park, Washington-Hyde Mini Park, 24th Street York-Mini Park, Garfield Square, Lake Merced Park
 
 
-**Graph 2: Park and school comparison**
+**Graph 2 and 3: Park and school comparison**
 
 ![image](https://user-images.githubusercontent.com/90660851/210447509-f0b43c1a-7be1-4961-86c8-31a945124d22.png)
 
+![image](https://user-images.githubusercontent.com/90660851/210447776-d90cb22b-9a3f-4acd-8167-d9c161cec670.png)
 
 
 
@@ -67,7 +68,7 @@ Which leads me to believe that the score of a park/neighborhood correlates with 
 
 We can also look at the socioeconimic factors within the neighborhood to further demonstrate this relation. For instance, the amount of evictions in neighborhoods reflects the rating of the school within that same neighborhood. From the above graphs and the graph below, we can see how more evicitions in a neighborhood correlate to a lower school rating. 
 
-**Graph 3: Eviction distribution in neighborhoods**
+**Graph 4 and 5: Eviction distribution in neighborhoods**
 
 ![image](https://user-images.githubusercontent.com/90660851/210008943-bc9811f4-dc8c-484b-842a-bb9e6747e10f.png)
 
